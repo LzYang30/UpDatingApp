@@ -13,7 +13,7 @@ public class bottomLayoutActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bottom_layout);
 
-        TabHost host = (TabHost)findViewById(R.id.tabhost);
+        TabHost host = (TabHost)findViewById(R.id.activity_bottom_layout);
         host.setup();
 
         //Tab 1
