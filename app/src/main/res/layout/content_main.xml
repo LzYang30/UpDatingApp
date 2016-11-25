@@ -408,7 +408,10 @@
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="10dp"/>
-
     </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:background="#4DD0E1" />
 </LinearLayout>
 </ScrollView>
